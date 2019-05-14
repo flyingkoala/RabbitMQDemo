@@ -1,0 +1,14 @@
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Application.deps.json
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Application.dll
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Application.pdb
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Infrastructure.dll
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+F:\Code\Demo\RabbitMQDemo\Application\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.csproj.CopyComplete
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.dll
+F:\Code\Demo\RabbitMQDemo\Application\obj\Debug\netcoreapp2.1\Application.pdb
