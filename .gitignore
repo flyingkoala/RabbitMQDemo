@@ -1,0 +1,7 @@
+/.vs
+/Application/bin
+/Application/obj
+/Infrastructure/bin
+/Infrastructure/obj
+/RabbitMQDemo/bin
+/RabbitMQDemo/obj
